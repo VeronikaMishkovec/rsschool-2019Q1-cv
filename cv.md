@@ -1,5 +1,6 @@
 # Veronika Mishkovec
 *Phone number* +375-29-637-94-74; 
+
 *e-mail* veronikakireenko@gmail.com
 
 **Github** [https://github.com/VeronikaMishkovec](https://github.com/VeronikaMishkovec)
@@ -13,6 +14,7 @@ HTML, CSS, base klowledge of JS( such as functions, loops, objects, arrays)
 ### Experience and code examples
 
 **Game "Cross-stitch":** [https://codepen.io/veronika-mishkowec/pen/dagOPg](https://codepen.io/veronika-mishkowec/pen/dagOPg)
+
 **Picture on CSS for competition:** [https://codepen.io/veronika-mishkowec/pen/ywNBXY](https://codepen.io/veronika-mishkowec/pen/ywNBXY)
 
 ### Education
