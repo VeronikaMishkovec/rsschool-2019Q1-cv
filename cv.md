@@ -24,4 +24,4 @@ HTMLAcademy online courses
 
 ### English
 Level B1 (Intermediate)
-Studying english at school, at university, one term at Streamline, now study by myself(reading books, watching videos, listening podcasts and clicking LinguaLeo.) 
+Studying english at school, at university, one term at Streamline, now study by myself (reading books, watching videos, listening podcasts and clicking LinguaLeo.) 
