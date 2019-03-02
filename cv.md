@@ -20,6 +20,8 @@ HTML, CSS, base klowledge of JS( such as functions, loops, objects, arrays)
 ### Education
 **Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus** 09.2011-06.2016
 
+HTMLAcademy online courses
+
 ### English
 Level B1 (Intermediate)
 Studying english at school, at university, one term at Streamline, now study by myself(reading books, watching videos, listening podcasts and clicking LinguaLeo.) 
